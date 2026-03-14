@@ -2,3 +2,4 @@ vaderSentiment>=3.3.2
 wordfreq
 pysyllables
 nltk
+pyttsx3
